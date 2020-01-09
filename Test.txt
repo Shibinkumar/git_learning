@@ -10,3 +10,4 @@ Changes 4: Checking the add command
 
 Changes 5: Verifying the Add command
  
+Changes 6: Final Check for add command
