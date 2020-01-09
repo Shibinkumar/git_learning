@@ -6,4 +6,7 @@ Changes 2: I am adding a new line in my text file
 
 Changes 3: Making more amendments
 
+Changes 4: Checking the add command
+
+Changes 5: Verifying the Add command
  
