@@ -1,1 +1,1 @@
-"This is git diff example" 
+"this is a diff example" 
